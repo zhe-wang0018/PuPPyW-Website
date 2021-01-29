@@ -38,8 +38,6 @@ experience:
     date_end: '2019-06-01'
     description: 
         Win the first prize in 2019 Gaokao of Yanggao county.
-        * Score: 617/750
-        * Rank: 1797/310000
        
     
 ---
