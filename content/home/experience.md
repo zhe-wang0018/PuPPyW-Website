@@ -22,24 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: Undergraduate Student
+    company: The Hong Kong Polytechnic University
+    company_url: 'https://www.polyu.edu.hk/'
+    location: Kowloon Hong Kong SAR
+    date_start: '2019-09-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: Doing research in NLP.
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
+  - title: Senior High School Student
+    company: Yanggao No.1 High School
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Yanggao Shanxi China
+    date_start: '2016-09-01'
+    date_end: '2019-06-01'
+    description: 
+        Win the first prize in 2019 Gaokao of Yanggao county.
+        * Score: 617/750
+        * Rank: 1797/310000
+       
+    
 ---
