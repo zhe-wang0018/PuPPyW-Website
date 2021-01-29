@@ -66,4 +66,4 @@ highlight_name: true
 
 Zhe WANG is an undergraduate student who is studying Financial Technology and Artificial Intelligence in The Hong Kong Polytechnic University. He is doing research under the supervision by <a href="http://www4.comp.polyu.edu.hk/~jing1li/" target="_blank"><b>Prof.Li Jing</b></a>. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
