@@ -16,7 +16,7 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: 50%
   icon: python
   icon_pack: fab
   name: Python
@@ -24,6 +24,10 @@ feature:
   icon: html5
   icon_pack: fab
   name: HTML5
+- description: 90%
+  icon: film
+  icon_pack: fas
+  name: Film
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
