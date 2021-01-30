@@ -27,7 +27,7 @@ education:
   courses:
   - course: BSc in Financial Technology and Artificial Intelligence
     institution: The Hong Kong Polytechnic University
-    year: 2019-2023(ecpected)
+    year: 2019-2023(expected)
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
